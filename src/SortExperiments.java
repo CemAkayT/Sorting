@@ -37,6 +37,6 @@ public class SortExperiments {
 
     public static void main(String[] args) {
         SortExperiments app = new SortExperiments();
-        app.sort2();
+
     }
 }
